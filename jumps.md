@@ -3,12 +3,12 @@
 used to jump tp different parts of code based on labels
 used to divert program flow
 
-            ``jmp label``
+    jmp label
 
 exapmle:
-```
+
     _start:
             jmp _start
-```
+
 
 
